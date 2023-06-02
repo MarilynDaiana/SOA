@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\usuario\\AndroidStudioProjects\\AndroidCode\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-is\\values-is.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\usuario\\.gradle\\caches\\transforms-2\\files-2.1\\120044c8399df92a4d01536db866b33c\\res\\values-is\\values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
